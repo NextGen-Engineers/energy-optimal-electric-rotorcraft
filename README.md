@@ -83,15 +83,7 @@ The framework captures:
 - Propulsion power demand
 - Electrical energy consumption
 
-### Simulation Framework & Mission Profile
-
-![Simulation framework and mission profile](figures/mission-profile.png)
-
-*Overview of the simulation environment and investigated hover–ascent–cruise–descent mission.*
-
----
-
-## Mission Profile
+### Mission Profile
 
 The investigated mission consists of four flight phases:
 
@@ -106,6 +98,16 @@ The investigated mission consists of four flight phases:
 The mission begins at approximately **34 ft**, climbs to a maximum altitude of **80 ft**, and returns to the initial altitude.
 
 The relatively long cruise phase makes it a dominant contributor to total mission energy consumption.
+
+---
+
+<p align="center">
+  <img src="figures/mission-profile.png" width="850">
+</p>
+
+<p align="center">
+  <em>Investigated hover–ascent–cruise–descent mission profile and phase durations.</em>
+</p>
 
 ---
 
