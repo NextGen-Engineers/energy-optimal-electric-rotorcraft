@@ -21,7 +21,9 @@
 
 ## 🎤 Conference Presentation
 
-## READ 2026
+### READ 2026
+
+### **Presenter:** Emeka Chijioke
 
 **Assessing the Impact of Actuator and Rotor Dynamics on Energy-Optimal Electric Rotorcraft Missions**
 
