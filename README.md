@@ -1,6 +1,12 @@
 # Assessing the Impact of Actuator and Rotor Dynamics on Energy-Optimal Electric Rotorcraft Missions
 
+<p align="center">
+  <img src="figures/Energy_model.png" width="500">
+</p>
+
+
 > **Investigation of how actuator rate limits and rotor dynamic response affect energy-optimal mission performance in electric unmanned helicopters.**
+
 
 [![Conference](https://img.shields.io/badge/Conference-READ%202026-1f6feb)](#conference-presentation)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)](#tools--technologies)
